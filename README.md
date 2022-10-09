@@ -7,8 +7,8 @@ output :- https://github.com/rahul-lyukbot/Assesments/blob/main/assesment1_outpu
 
 ## problem_3 
 ### image processing techniques 
- * **1. converting image into tensors**
- * **2. Linear filtering**
- * **3. 3.ICA(Independent Component Analysis)**
+ * **1. converting image into tensors**  https://github.com/rahul-lyukbot/Assesments/blob/main/Softsensor_problem_3.ipynb
+ * **2. Linear filtering**  https://github.com/rahul-lyukbot/Assesments/blob/main/Softsensor_problem_3.ipynb
+ * **3. 3.ICA(Independent Component Analysis)**  https://github.com/rahul-lyukbot/Assesments/blob/main/Softsensor_problem_3.ipynb
  * **4. Pixelation**
  * **5. Image restoration**
