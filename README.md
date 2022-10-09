@@ -10,5 +10,5 @@ output :- https://github.com/rahul-lyukbot/Assesments/blob/main/assesment1_outpu
  * **1. converting image into tensors**  https://github.com/rahul-lyukbot/Assesments/blob/main/Softsensor_problem_3.ipynb
  * **2. Linear filtering**  https://github.com/rahul-lyukbot/Assesments/blob/main/Softsensor_problem_3.ipynb
  * **3. 3.ICA(Independent Component Analysis)**  https://github.com/rahul-lyukbot/Assesments/blob/main/Softsensor_problem_3.ipynb
- * **4. Pixelation**
- * **5. Image restoration**
+ * **4. Pixelation**  https://github.com/rahul-lyukbot/Assesments/blob/main/4_Pixelation.py
+ * **5. Image restoration**  https://github.com/rahul-lyukbot/Assesments/blob/main/5_Image%20restoration.py
